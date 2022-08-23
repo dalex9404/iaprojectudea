@@ -19,4 +19,4 @@ Recursos:
 
 # URL del video correspondiente a la entrega N° 2
 
--URL: ![Video](https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be)
+-URL: ![Video] https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be
